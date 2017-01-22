@@ -1,5 +1,10 @@
 # friends
 
+1. Eclipse -- > spring-boot:run
+2. To run from command line :  mvn spring-boot:run ...pls setup maven path and java if not setup allready
+2.1 https://www.mkyong.com/maven/install-maven-on-mac-osx/ maven path for mac
+
+
 Creating New Record:
 /booking/create?psngrName=Dinesh&departure=Noida&destination=Pune create a new booking with an auto-generated.
 
